@@ -199,3 +199,15 @@ figcaption {
     padding: 5px 20px;
     font-size: 20px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    padding: 2%;
+}
+
+.footer-text {
+    color: #e5e7eb;
+}
